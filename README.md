@@ -18,7 +18,7 @@
 - **TensorFlow Eager 基本操作** ([notebook](https://github.com/debugCVML/TensorFlow-Examples/blob/ch/notebooks/1_Introduction/basic_eager_api_ch.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/1_Introduction/basic_eager_api.py)).使用TensorFlow的 Eager API最基本操作.
 
 #### 2 - 基本模型
-- **线性回归** ([notebook]https://github.com/debugCVML/TensorFlow-Examples/blob/ch/notebooks/2_BasicModels/linear_regression_ch.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/linear_regression.py)). 使用TensorFlow实现线性回归模型.
+- **线性回归** ([notebook](https://github.com/debugCVML/TensorFlow-Examples/blob/ch/notebooks/2_BasicModels/linear_regression_ch.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/linear_regression.py)). 使用TensorFlow实现线性回归模型.
 - **线性回归 (eager api)** ([notebook](https://github.com/debugCVML/TensorFlow-Examples/blob/ch/notebooks/2_BasicModels/linear_regression_eager_api_ch.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/linear_regression_eager_api.py)). 使用TensorFlow的 Eager API实现线性回归.
 - **逻辑回归** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/2_BasicModels/logistic_regression.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/logistic_regression.py)). 使用TensorFlow实现逻辑回归.
 - **逻辑回归(eager api)** ([notebook](https://github.com/debugCVML/TensorFlow-Examples/blob/ch/notebooks/2_BasicModels/logistic_regression_ch.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/logistic_regression_eager_api.py)). 使用TensorFlow的 Eager API实现逻辑回归.
