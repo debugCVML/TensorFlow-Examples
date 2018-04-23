@@ -13,7 +13,8 @@
 - [MNIST数据库简介](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb).
 
 #### 1 - 简介
-- **Hello World** ([notebook](https://github.com/debugCVML/TensorFlow-Examples/blob/ch/notebooks/1_Introduction/helloworld_ch.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/1_Introduction/helloworld.py)). 使用TensorFlow的最简单操作.
+- **在TensorFlow中使用示例MNist数据集** ([notebook](https://github.com/debugCVML/TensorFlow-Examples/blob/ch/basic_operation/Baisc_operation_for_MNist.ipynb))
+- **TensorFlow Hello World** ([notebook](https://github.com/debugCVML/TensorFlow-Examples/blob/ch/notebooks/1_Introduction/helloworld_ch.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/1_Introduction/helloworld.py)). 使用TensorFlow的最简单操作.
 - **基本操作** ([notebook](https://github.com/debugCVML/TensorFlow-Examples/blob/ch/notebooks/1_Introduction/basic_operations_ch.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/1_Introduction/basic_operations.py)). 使用TensorFlow的基本操作.
 - **TensorFlow Eager 基本操作** ([notebook](https://github.com/debugCVML/TensorFlow-Examples/blob/ch/notebooks/1_Introduction/basic_eager_api_ch.ipynb)) ([code](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/1_Introduction/basic_eager_api.py)).使用TensorFlow的 Eager API最基本操作.
 
